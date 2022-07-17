@@ -10,7 +10,8 @@ function App() {
           In this technical session, we will see how to deploy react and node js
           based applications.
         </h3>
-        <h2>Let's start.</h2>
+        <h2>This is a manual deployment of our react application.</h2>
+        h3
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
