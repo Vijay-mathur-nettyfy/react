@@ -5,7 +5,7 @@ function gitPush($message){
   
  git add . 
  git commit -m $message 
- git push origin  (git rev-parse --abbrev-ref HEAD )
+ git push origin  (git branch --show-current )
 }
   gitPush -message $args[0]
   
