@@ -8,9 +8,6 @@ function gitPush($message){
  echo "----------Code is pushed successfully----------"
  echo ""
 
- echo "----------Build is Generating----------"
- echo ""
-
 }
 
   gitPush -message $args[0]

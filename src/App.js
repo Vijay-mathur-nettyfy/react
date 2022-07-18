@@ -12,7 +12,7 @@ function App() {
         </h3>
         <h2>
           In this case we have deployed our react application from github
-          through gh-pages
+          through CI/CD
         </h2>
 
         <img src={logo} className="App-logo" alt="logo" />
