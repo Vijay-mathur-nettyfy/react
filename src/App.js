@@ -14,6 +14,7 @@ function App() {
           In this case we have deployed our react application from github
           through CI/CD
         </h2>
+        <p>This is comming from Private Repo</p>
 
         <img src={logo} className="App-logo" alt="logo" />
         <p>
